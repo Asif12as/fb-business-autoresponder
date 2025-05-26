@@ -30,7 +30,7 @@ A simple, lightweight Facebook Messenger bot that allows automated responses on 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/fb-messenger-bot.git
+   git clone https://github.com/Asif12as/fb-messenger-bot.git
    cd fb-messenger-bot
    ```
 
