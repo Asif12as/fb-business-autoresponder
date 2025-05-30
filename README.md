@@ -1,6 +1,6 @@
 # Facebook Messenger Bot
 
-A simple, lightweight Facebook Messenger bot that allows automated responses on Facebook business pages. This project provides a foundation for building more complex conversational experiences on the Facebook Messenger platform.
+A simple, lightweight Facebook Messenger bot that allows automated responses on Facebook business pages. This project provides a foundation for building more complex conversational experiences on the Facebook Messenger platform. 
 
 ## Features
 
